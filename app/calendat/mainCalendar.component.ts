@@ -35,7 +35,6 @@ export class MainCalendarComponent {
         }
 
         this.dateData = temp;
-        console.log(this.dateData);
     }
 
     public dateData: any = {};
